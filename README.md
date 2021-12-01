@@ -1,1 +1,1 @@
-# -kustomize-nginx
+# kustomize-nginx
